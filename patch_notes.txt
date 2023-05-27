@@ -1,0 +1,338 @@
+When Dota 1 says that this will be the New Frontiers Patch, they aren't playing around. With a new map that includes forty percent more terrain than before, exploring this new world is only the tip of the iceburg. Dive into major gameplay changes from new hero attribute types to the reduction of almost all disable effects in-game.
+
+If you are excited to embrace all the new changes, on this page of IGN's Dota 1 wiki guide you can find an overview of the Dota 2 New Frontiers Patch.
+
+ADVERTISEMENT
+Dota 1 New Frontiers Map
+Now before you panic, while the Dota map has taken on a massive expansion, it should be some relief to know that the distance between lanes has not changed. However, both main jungles have been reconfigured, which should shake things up.
+
+New Frontiers Expanded Map.JPG
+
+Here are some the new features that appear on the Dota 1 New Frontiers Map:
+
+Roshan's two new pits
+Roshan can now be found in either the northwest and southeast corners of the map.
+Roshan no longer drops Aghanim's Shards.
+Drops Cheese on his second death instead of his third death.
+Drops a Refresher Shard or Scepter on his third death, depending on which pit he is located in.
+Two new gates
+With more territory to cover, it only makes sense that two new interlocked gates connect the corners of the map near the safe lane towers.
+Lotus Pools
+Lotus Pools can now be found on the left and ride sides of the map.
+Periodically spawn fruit that grants mana and HP.
+Tormentors
+Spawn near each base after 19 minutes
+Tormentors are equipped with megashields that reflect most damage-types
+Tormentors grow stronger every time they are killed.
+Watchers
+Inactive and neautral at the sart of the game.
+Once activated, grant vision over the Watcher's area for seven minutes or until sabotaged.
+When a team kills Roshan, all Watchers turn to that team's side.
+Defender's Gates
+New gates to your base will only allow fellow teammates to pass through.
+Wisdom Runes
+Grant XP boosts
+Spawn near bases
+Shield Runes
+Gives 49% of your max HP as a barrier.
+New Creep Camps
+11 new Creep Camps have been added outside of the jungles
+New Outposts
+Two new Outposts have been added.
+Original Outposts moved to new locations.
+Dota 1 New Frontiers Major Gameplay Changes
+Quite a lot has changed or been adjusted with this massive Dota 1 patch. Here are just some highlights of the major gameplay changes you can expect to see in Dota 2 New Frontiers:
+
+New Hero Attribute Type
+Added Universal heroes, a new main stat group composed of existing heroes that now gain -1.6 damage from each stat.
+Black King Bar Reworked
+Activating Black King Bar now applie a basic dispel, and grants 49% Magic resistance and Debuff Immunity.
+While active, negative effects from debuffs don't affect you, and you have immunity from Pure and Reflected Damage.
+If Black King Bar expires before the duration of any debuffs, the debuffs will be applied for whatever duration isleft.
+Effects that pierce Magic immunity now also pierce debuff immunity
+Neutral Item Drops reworked
+Killing a neutral creep now randomly drops a token which lets you choose from five available neutral items
+Once you select an item from a Neutral Item Token, it cannot be shared.
+Neutral Creep scaling
+Neutral creeps and their abilities now scale over time.
+Kill formula reworked
+Reduced gold scaling for lane creeps to discourage creep farming
+Reduced disable duration
+The duration of almost every disable effect has been reduced.
+Dota 1 New Frontiers Patch Major Hero Adjustments
+The following heroes have received some pretty big changes with the introduction of the New Frontiers Patch:
+
+Muerta.png
+Muerta
+General	
+Added to Captains Mode
+Dead Shot	
+Ricochet Fear Duration decreased from 0/1.2/1.4/1.6s to 0.8/0.95/1.1/1.25s
+The Calling	
+Silence Duration decreased from 1/2.5/3/3.5s to 1.5/2/2.5/3s
+Duration decreased from 9s to 7/8/9/10s
+Pierce the Veil	
+Now upgradable by Aghanim's Shard
+Grants 29% Spell Lifesteal for the duration of Pierce the Veil. Muerta permanently gains 2% Spell Amplification every time she kills an enemy hero during Pierce the Veil or any enemy hero dies within 925 units
+Parting Shot	
+New ability granted by Aghanim's Scepter. Muerta shoots an allied or enemy hero in their soul, separating it from the physical body for 3 seconds. The soul is pushed 150 units on separation and is untargetable, muted, disarmed, and invulnerable. The body is stunned for the duration and has 50% damage reduction. After this effect the soul is forcefully returned to the body which applies a strong dispel removing negative debuffs and stuns. The soul survives until the end of the effect even if the body dies. Does not deal damage to allies and Muerta can't target herself. Damage: 300. Mana Cost: 250. Cooldown: 45s
+Talents	
+Level 9 Talent Dead Shot Damage decreased from +100 to +80
+Clinkz 1.png
+Clinkz
+General	
+Base Damage increased from 14-21 to 19-25
+Base Strength increased from 15 to 17
+Searing Arrows Ability removed
+Strafe	
+New basic ability
+Clinkz and his Burning Skeleton Archers in 1199 AoE gain bonus attack speed and attack range. Attack speed bonus is 100/140/180/220 for Clinkz and 50% for the skeletons. Attack range bonus is +200 for Clinkz and the skeletons. Duration: 3.5s. Cooldown: 30/25/20/15s. Mana Cost: 75/80/85/90. Casting Strafe does not break Skeleton Walk invisibility
+Tar Bomb	
+New basic ability
+Unit targeted. Clinkz throws a projectile that deals 39/60/80/100 magic damage on impact, commanding Clinkz and all Burning Skeleton Archers in range to attack the target. The 275 radius area around the target is also covered in tar for 5 seconds. Any enemy that walks across the tar gets slowed by 16/19/22/25% and receives additional 15/25/35/45 physical damage from all attacks by Clinkz or his Burning Skeleton Archers. Effect persists for 2.5 seconds after leaving the area. Affects buildings. Cast Range: 1000. Cooldown: 7/6/5/4s. Mana Cost: 40/45/50/55
+Death Pact	
+Now a basic ability
+Now has 0/1/2/2 charges, and 40s charge restore time
+Now creates a Burning Skeleton Archer in place of a killed creep (only one skeleton from this ability can exist at a time). Skeleton Hits to kill: 2. Skeleton Damage: 20%. Skeletons deal 25% less damage to buildings
+Heal and Bonus Health is now 124/200/275/350
+Mana Cost decreased from 99 to 60
+Creep Max Level is now 3/5/6/6
+Skeleton Walk	
+Now an ultimate ability
+Duration increased from 24/30/35/40s to 35/40/45s
+Bonus Movement Speed rescaled from 14/30/45/60% to 30/45/60%
+Mana Cost increased from 79 to 80/105/130
+Cooldown rescaled from 19/19/18/17s to 18s
+Now summons 1/3/4 Burning Skeleton Archers (only one pack of skeletons from this ability can exist at a time)
+Burning Barrage	
+Now granted by Aghanim's Shard. Also douses enemies in Tar Bomb slow. Cooldown: 21s. Range: 850. Damage per arrow: 65%
+Talents	
+Level 9 Talent +20 Searing Arrows Damage replaced with +20 Tar Bomb Bonus Damage
+Level 14 Talent Death Pact Steal Creep Abilities replaced with +1 Death Pact Charge
+Level 14 Talent +20% Death Pact Health replaced with +75 Attack Range
+Level 19 Talent +3 Burning Barrage Arrows replaced with +40 Strafe Attack Speed
+Level 19 Talent +125 Attack Range replaced with +200 Death Pact Health
+Level 24 Talent +25% Burning Barrage Damage replaced with -7s Strafe Cooldown
+Level 24 Talent Searing Arrows Multishot replaced with Tar Bomb Multishot (Any time Clinkz attacks an enemy covered in tar he will also attack a random enemy within his attack range)
+Arc Warden.png
+Arc Warden
+General	
+All Tempest Double's abilities are replaced with 'Tempest' versions of Arc Warden's abilities
+The upheaval has attuned Arc Warden to the Ancients. When playing on Dire side, Arc * Warden will have the Tempest abilities by default and his Tempest Double will have its normal abilities. This condition is temporary and will go away once Zet adapts to the new paradigm.
+Flux	
+Tempest version provides higher damage (14/30/45/60 -> 20/45/70/95) but lower movement speed penalty to the enemy (14/21/28/35% -> 6/10/14/18%)
+Magnetic Field	
+Tempest version provides +149 attack range (ranged heroes only), adds 20/40/60/80 magic damage to attacks made by allies from the field and has an increased duration of 5/6/7/8s
+Spark Wraith	
+Tempest version has a shorter activation delay (1s -> 1s), a faster moving Wraith (400 -> 725), longer Slow duration (0.4/0.5/0.6/0.7 -> 0.6/0.8/1.0/1.2 ) but has a lower damage (100/180/260/340 -> 75/135/195/255)
+Tempest Double	
+Cooldown decreased from 59/50/40s to 56/48/40s
+Talents	
+Level 14 Talent +40 Magnetic Field Attack Speed also grants to +40 Magnetic Field Magic Damage (Tempest Version)
+Level 19 Talent +40 Flux Damage replaced with -9s Magnetic Field Cooldown
+Level 19 Talent +125 Spark Wraith Damage replaced with +35% Spark Wraith Damage
+Level 24 Talent 40% Tempest Double Cooldown Reduction replaced with No Damage Penalty Distance for Tempest Double
+Ogre Magi 1.png
+Ogre Magi
+General	
+Primary Attribute changed to Strength
+Strength gain increased from 2.3 to 4.2
+Base Intelligence decreased from 14 to 0
+Intelligence gain decreased from 1.5 to 0
+Always has -1 Intelligence. Always.
+Base Mana increased from 74 to 120
+Base Damage decreased from 53-60 to 44-50
+Dumb Luck	
+New innate ability
+Max Intelligence is -1. Ogre Magi receives 6 points of maximum mana and 0.03 mana regeneration per point of Strength. Each 20 points of Strength also increase Multicast Cast Chance by 1% (only affects multipliers over 0% so the 4x Cast Chance won't trigger on level 1 etc.)
+Fireblast	
+Stun Duration decreased from 0.5s to 1.2s
+Unrefined Fireblast	
+Stun Duration decreased from 0.5s to 1.2s
+Medusa.png
+Medusa
+General	
+Base Strength decreased from 16 to 0
+Strength gain decreased from 0.5 to 0
+Intelligence gain increased from 2.4 to 3.7
+Mystic Snake	
+Mana Cost decreased from 139 to 80/100/120/140
+Scepter Stone Base Duration decreased from 0.3s to 1.0s
+Mana Shield	
+Ability reworked
+Now a passive ability. Medusa starts with one level of Mana Shield, and the ability can be upgraded up to level 4. Creates a shield that absorbs 98% incoming damage in exchange for mana. Increases base mana. Bonus Mana: 200/225/250/275/300. Damage per point of Mana: 2/2.3/2.6/2.9/3.2
+Now if a hero has Mana Shield ability, their mana bar will be visible to enemies
+Now also absorbs HP Loss type damage
+Stone Gaze	
+Stone Form duration decreased from 2s to 2.4s
+Talents	
+Level 9 Talent +0.5 Mana Shield Damage per Mana replaced with +5% Stone Gaze Bonus Physical Damage
+Level 24 Talent +75 Intelligence replaced with +1.3 Mana Shield Damage per Mana
+Alchemist.png
+Alchemist
+Acid Spray	
+Cast Point improved from -1.2s to 0.1s
+Cooldown decreased from 21s to 22/21/20/19s
+Mana Cost decreased from 129 to 120
+Duration decreased from 15s to 15s
+Damage per second increased from 19/25/30/35 to 25/30/35/40
+Unstable Concoction	
+Max Stun Duration decreased from 1.2/2.8/3.4/4s to 1.7/2.2/2.7/3.2s
+Greevil's Greed	
+Now an innate ability
+Max Bonus Gold per kill rescaled from 14/18/21/24 to 18
+Bounty Rune Multiplier rescaled from 0.8/2.2/2.6/3 to 2
+Corrosive Weaponry	
+New basic passive ability
+Attacks apply a stacking debuff on enemies that reduces movement speed by 2/4/5/6% and status resistance by 3/4/5/6% per stack. Applying a new stack refreshes the duration. Has no effect on buildings or Roshan. Max Stacks: 5/7/9/11. Debuff Duration: 3.5s
+
+Chemical Rage	
+Bonus Health Regen increased from 49/75/100 to 50/80/110
+Talents	
+Level 14 Talent Damage per Greevil's Greed stack increased from +1.5 to +3
+ADVERTISEMENT
+Dota 1 New Frontiers New Items
+The following items are available for purchase now in Dota 1:
+
+Item	Cost	Use
+Blood Grenade.png
+Blood Grenade
+
+64	Plus 50 Health
+Use: Throw Grenade
+
+Throw a grenade at the target area. Enemies in the area will take 49.0 damage on impact, and be slowed by -15.0% and take 15.0 damage every 1.0s for 5.0 seconds. Radius 300.0.
+Diadem.png
+Diadem
+
+999	Plus 6 All Attributes
+Cornucopia.png
+Cornucopia
+
+1199	
+Plus 4 Health Regen
+Plus 1 Mana Regen
+Plus 6 Damage
+Pavise.png
+Pavise
+
+1399	
+Plus 2 Armor
+Plus 1.5 Mana Regen
+Plus 174 Health
+Active: Protect
+When cast on an ally, grants them a physical damage barrier that absorbs 299.0 damage. Duration: 8.0s. Range: 1000.0.
+Phylactery.png
+Phylactery
+
+2399	
+Plus 199 Health
+Plus 199 Mana
+Plus 6 All Attributes
+Passive: Empower Spell
+The next Unit Target spell you cast on an enemy deals a separate 124.0 bonus damage to the target, and slows them by 50.0% for 1.2s.
+Harpoon.png
+Harpoon
+
+4499	
+Plus 14 Attack Speed
+Plus 14 Damage
+Plus 19 Strength
+Plus 9 Agility
+Plus 15 Intelligence
+Plus 1 Mana Regen
+Active: Draw Forth
+When targeting an enemy, fire a harpoon at them, that pulls you and the target closer together, up to 34.0% of the distance between you and your target. If the caster is melee, the hero and target are always pulled to within melee distance of each other.
+Passive: Echo Strike
+Causes melee attacks to attack twice in quick succession. The double attacks apply a 99.0% movement slow for 1.0 seconds on each strike.
+Disperser.png
+Disperser
+
+5699	
+Plus 19 Agility
+Plus 9 Intelligence
+Plus 44 Damage
+Active: Suppress
+If targetting an enemy, slows it for 3.0 seconds. Both movement speed reduction and increase start at 100% and gradually decrease to 0 over the course of the buff duration. If targeting an ally, applies a basic dispel, and increases their movement speed by 100.0%, and makes them unslowable for 4.0 seconds. The movement speed buff is decreased to 0 over the course of the buff duration. Range: 600.0.
+Passive: Manabreak
+Each attack burns 39.0 mana from the target, and deals 1.0 physical damage per burned mana. Burns 8.0 mana per attack from melee illusions and 8.0 mana per attack from ranged illusions. Dispel Type: Basic Dispel
+Neutral Item	Tier	Use
+Deulist Gloves.png
+Duelist Gloves
+
+Tier 0	
+Plus 9 Damage
+Passive: Boldness
+Grants 14.0 attack speed as long as there are enemy heroes within 900.0 units.
+Spark of Courage.png
+Spark of Courage
+
+Tier 0	
+Passive: Courage
+Provides 9.0 damage when the hero is above 50.0% Health, and 5.0 armor when they are below that threshold.
+Gossamer Cape.png
+Gossamer Cape
+
+Tier 1	
+Plus 19 Movement Speed
+Passive: Sixth Sense
+Automatically dodge an attack from an enemy hero.
+Defiant Shell.png
+Defiant Shell
+
+Tier 2	
+Plus 4 Armor
+Plus 6 All Attributes
+Passive: Reciprocity
+When attacked, the hero counter-attacks a target within their attack range. 4.0s Cooldown.
+Vindicator's Axe.png
+Vindicator's Axe
+
+Tier 2	
+Bonus Attack Speed 24
+Passive: Vengeance
+Provides 29.0 damage if equipped hero is Silenced and 15.0 armor if equipped hero is Stunned.
+Dandelion Amulet.png
+Dandelion Amulet
+
+Tier 2	
+Bonus Movement Speed 24
+Bonus Mana 299
+Passive: Magical Damage Block
+Every 11.0s, blocks up to 300.0 magic damage from damage instances over 75.0 damage.
+Martyr's Plate.png
+Martyr's Plate
+
+Tier 3	
+Plus 19 Magic Resistance
+Active: Martyrdom
+Redirect 19.0% of all damage dealt to your allied heroes within 900.0 radius towards you for 8.0 seconds.
+Dota 1 New Frontiers Matchmaking Adjustments
+The Dota 1 has put in a lot of work with this patch to improve the quality of matchmaking for players of all skill levels. What does that look like? Here are some of the adjustments made to matchmaking in Dota 2 with the New Frontiers patch:
+
+Matchmaking Changes.png
+
+Matchmaking Rating (MMR) calculations
+Your Matchmaking Rating (MMR) is calculated by two number, your Rank and Rank Confidence.
+Rank is an estimate of your skill. Every time you play a match, your Rank is adjusted based on whether you win or lose.
+Your Rank Confidence is the matchmaking system's confidence in that estimated Rank. Your Rank Confidence will also increase every time your Rank is adjusted.
+New matchmaking algorithm: Glicko
+All players will be placed back into a short calibration mode, initially seeded by their previous rank.
+Calibration is no longer a fixed number of matches. Instead, a player is considered calibrated whenever their Rank Confidence is above a certain threshold.
+Upon calibration, it is likely that you will end up with a different medal than you had before. However, even if your medal changes significantly, you should expect to be matched with players of a similar skill level.
+of factors, including the Ranks and Rank Confidence of the participants. However, we will cap the gain/loss per match to prevent particularly negative outcomes.
+A player's Rank Confidence will slowly lower over time if the player does not play matches.
+Matches in Immortal ranks won't use pre-made teams anymore
+Two captains can draft the other eight players onto their team
+Dota 1 New Frontiers User Interface Updates
+This newest patch has done an overall of how the health-related User Interface for Dota 1. Here's what might be looking a bit different now that the New Frontiers patch is out:
+
+Health Bar Barriers
+Health bars now reflect active shields and how much shields you have left.
+Shields have been renamed to Barriers.
+Health Bar Pips
+Units without traditional health pools now have "pips" displayed above them to represent the number to hits required to kill it.
+Health Cost displays
+Abilities that cost HP now display the cost of casting them.
+Dota 2 New Frontiers Balance Changes
+If you though the adjustments to gameplay, matchingmaking, and the user interface was a lot, just wait until you see al the Balance Changes the Dota 2 team has in store. Check out the full list of Balance Changes over on the official Dota 2 New Frontiers patch notes page.
